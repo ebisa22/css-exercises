@@ -1,0 +1,27 @@
+.odd{
+    background-color: rgb(255, 167, 167);
+    font-family: verdana "dejaVu sans" sans-serif;
+}
+.no-1{
+    font-size: 28px;
+    font-weight: bold;
+}
+#no-2{
+    color: rgba(28, 28, 211, 0.989);
+    font-size: 36px;
+    font-weight: bold;
+
+}
+.no-3{
+    font-size: 24px;
+    font-weight: bold;
+}
+#no-4{
+    background-color: rgb(109, 219, 109);
+    font-size:24px;
+    font-weight: bolder;
+}
+.no-5{
+    font-size: 28px;
+    font-weight: bold;
+}
